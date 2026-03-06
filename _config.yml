@@ -27,7 +27,7 @@ author:
   name             : "Adedamola Adetola"
   email            : "adetoladamolaayo@gmail.com" 
   bio              : "Machine Design | UAV Technician and Pilot | Machinist "
-  
+  linkedin         : # https://www.linkedin.com/in/adedamola-adetola-gmnse-miaeng-422854360
 
   # Academic websites
   academia         : # URL
@@ -62,7 +62,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # https://www.linkedin.com/in/adedamola-adetola-gmnse-miaeng-422854360
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
