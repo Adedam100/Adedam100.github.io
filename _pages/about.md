@@ -18,23 +18,32 @@ I am open to collaborations in manufacturing or machining fields and Aerial Robo
 Research Interest
 
 •Unmanned Aerial Vehicle (UAV) design, optimization, and performance 	enhancement
+
 •Aerospace structures and lightweight composite materials
+
 •Generative design and topology optimization for mechanical components
+
 •Mechanical system prototyping and product development
+
 •Smart manufacturing and precision machining processes
+
 
 
 Professional Membership
 
 •Nigerian Society of Engineers (MNSE)
+
 •International Association of Engineers (MIAENG)
 
 
 Licenses and Certifications
 
 •Eurocontrol Certificate of Completion – Fundamentals of UAS and U-space 	Airspace
+
 •EASA A1/A3 Remote Pilot License – European Union Aviation Safety Agency
+
 •FAA UAS Safety Test Completion Certificate – Federal Aviation Administration
+
 •Certificate of Participation – Autodesk Authorized Academic Partner Event 	(COSTECH), Generative Design
 
 
