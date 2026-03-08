@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me 🧬 "
+title: "About Me 🧬, Research Interest, Professional Membership, Licenses and Certification "
 author_profile: true
 redirect_from: 
   - /about/
@@ -29,7 +29,7 @@ Research Interest
 •Smart manufacturing and precision machining processes
 
 
-Membership
+Professional Membership
 
 •Nigerian Society of Engineers (MNSE)
 •International Association of Engineers (MIAENG)
