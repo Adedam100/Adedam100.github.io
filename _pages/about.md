@@ -13,3 +13,23 @@ Professionally, I have extensive experience in manufacturing, maintenance, machi
 Including the European Union Aviation Safety Agency and the Federal Aviation Administration, I combine mechanical engineering proficiency with advanced UAV systems knowledge. 
 
 I am open to collaborations in manufacturing or machining fields and Aerial Robotics research, particularly in ways to improve existing technology and form new ones for the benefit of Man. Let’s work together to drive impactful advancements in this exciting field!
+
+
+---
+permalink: /
+title: "Research Interest"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+•Unmanned Aerial Vehicle (UAV) design, optimization, and performance 	enhancement
+
+•Aerospace structures and lightweight composite materials
+
+•Generative design and topology optimization for mechanical components
+
+•Mechanical system prototyping and product development
+
+•Smart manufacturing and precision machining processes
