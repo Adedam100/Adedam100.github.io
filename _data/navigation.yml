@@ -15,7 +15,7 @@ main:
     url: /designs/    
 
   - title: "CV"
-    url: https://github.com/Adedam100/Adedam100.github.io/blob/2ee48a29d9979309de726e82ad2a398b9e185eeb/files/CV%20-%20Adetola%20Adedamola.pdf
+    url: /files/CV%20-%20Adetola%20Adedamola.pdf
     
   - title: "Portfolio"
     url: /portfolio/
