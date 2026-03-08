@@ -33,9 +33,16 @@ Membership
 •International Association of Engineers (MIAENG)
 
 
+
 Licenses and Certifications
+
 
 •Eurocontrol Certificate of Completion – Fundamentals of UAS and U-space Airspace
 •EASA A1/A3 Remote Pilot License – European Union Aviation Safety Agency
+
 •FAA UAS Safety Test Completion Certificate – Federal Aviation Administration
+
 •Certificate of Participation – Autodesk Authorized Academic Partner Event (COSTECH), 	Generative Design
+
+
+
