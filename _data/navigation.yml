@@ -15,7 +15,8 @@ main:
     url: /designs/    
 
   - title: "CV"
-    url: /cv/    
+    # url: /cv/
+    url: /files/ 
     
   - title: "Portfolio"
     url: /portfolio/
