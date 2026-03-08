@@ -15,15 +15,8 @@ Including the European Union Aviation Safety Agency and the Federal Aviation Adm
 I am open to collaborations in manufacturing or machining fields and Aerial Robotics research, particularly in ways to improve existing technology and form new ones for the benefit of Man. Let’s work together to drive impactful advancements in this exciting field!
 
 
----
-permalink: /
-title: "Research Interest"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+Research Interest
+    
 •Unmanned Aerial Vehicle (UAV) design, optimization, and performance 	enhancement
 
 •Aerospace structures and lightweight composite materials
