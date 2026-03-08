@@ -15,8 +15,7 @@ main:
     url: /designs/    
 
   - title: "CV"
-    # url: /cv/
-    url: /files/ CV - Adetola Adedamola.pdf
+    url:
     
   - title: "Portfolio"
     url: /portfolio/
