@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me 🧬, Research Interest, Professional Membership, Licenses and Certification "
+title: "About Me 🧬"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,15 +17,10 @@ I am open to collaborations in manufacturing or machining fields and Aerial Robo
 
 Research Interest
 
-
 •Unmanned Aerial Vehicle (UAV) design, optimization, and performance 	enhancement
-
 •Aerospace structures and lightweight composite materials
-
 •Generative design and topology optimization for mechanical components
-
 •Mechanical system prototyping and product development
-
 •Smart manufacturing and precision machining processes
 
 
