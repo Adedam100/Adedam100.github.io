@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About Me <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4ed248dd-3708-4a6c-a48f-60e9f758ded8" />
- "
+title: "About Me <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4ed248dd-3708-4a6c-a48f-60e9f758ded8" /> "
 author_profile: true
 redirect_from: 
   - /about/
