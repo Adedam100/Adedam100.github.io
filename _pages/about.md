@@ -12,7 +12,7 @@ Hi, I'm Adedamola Adetola, a First-Class Mechanical Engineering graduate from Ab
 Professionally, I have extensive experience in manufacturing, maintenance, machining, and aerospace applications. Currently, I'm serving as a UAV Technician at AeroTech Services Limited, where I apply my mechanical expertise to drone assembly, diagnostics, structural repairs, and flight operations support. Certified by international aviation bodies
 Including the European Union Aviation Safety Agency and the Federal Aviation Administration, I combine mechanical engineering proficiency with advanced UAV systems knowledge. 
 
-I am open to collaborations in manufacturing or machining fields and Aerial Robotics research. Let’s work together to drive impactful advancements in this exciting field!
+I am open to collaborations in manufacturing, machining, and Aerial Robotics research. Let’s work together to drive impactful advancements in these exciting fields!
 
 
 Research Interest
