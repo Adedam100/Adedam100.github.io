@@ -10,20 +10,6 @@
 main:
   - title: "Projects"
     url: /projects/
-    
-Grain grinding is a common method for reducing harvested grain into flour. The importance 
-of grinding grains into fine flour has a full advantage for homogeneity and size reduction for feed 
-suitability.  Traditionally, grain grinding is done using a saddle stone or mortar and pestle. These 
-methods are all tedious, laborious, and time-consuming. Based on this backdrop, our project 
-sought to design, construct, and evaluate a locally fabricated petrol engine-powered grain grinding 
-machine that minimizes the use of traditional methods of grinding grain, which are laborious and 
-time-consuming, and that is easy to operate with a high degree of efficiency.  
-The methodology was broken into 3 stages: the design process, the fabrication process, and the 
-testing & evaluation process. The design of the machine was carried out using Autodesk Fusion. 
-In designing the machine, the type of grain, output fineness & type of petrol engine were considered. 
-The machine consists of main components that include the frame, the burrs (Grinding plate), petrol 
-engine, grinding chamber, hopper, & belt and pulley. The components were assembled to 
-obtain the required machine. 
 
   - title: "Designs"
     url: /files/Designs.pdf    
