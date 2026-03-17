@@ -36,7 +36,7 @@ I am open to collaborations in manufacturing, machining, and Aerial Robotics res
 •International Association of Engineers (MIAENG)
 
 
-Licenses and Certifications
+<h1>Licenses and Certifications</h1>
 
 •Eurocontrol Certificate of Completion – Fundamentals of UAS and U-space 	Airspace
 
