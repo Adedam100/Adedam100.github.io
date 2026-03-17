@@ -15,7 +15,7 @@ Including the European Union Aviation Safety Agency and the Federal Aviation Adm
 I am open to collaborations in manufacturing, machining, and Aerial Robotics research. Let’s work together to drive impactful advancements in these exciting fields!
 
 
-Research Interest
+<h1>Research Interest</h1>
 
 •Unmanned Aerial Vehicle (UAV) design, optimization, and performance 	enhancement
 
@@ -29,7 +29,7 @@ Research Interest
 
 
 
-Professional Membership
+<h1>Professional Membership</h1>
 
 •Nigerian Society of Engineers (MNSE)
 
